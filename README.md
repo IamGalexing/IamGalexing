@@ -2,7 +2,7 @@
 
 - 🧐 I’m currently learning everything what I can get my hands on to be 💪 developer.
 - 📫 How to reach me: [galexing@gmail.com](galexing@gmail.com)
-  = ⚡ Fun fact: I love to code and music
+= ⚡ Fun fact: I love to code and music 🎸🎺🎹
 
 ### My current stack and tools:
 
