@@ -1,7 +1,8 @@
 ### Hi there, I`m Oleksandr 👋
 
-- 🌱 I’m currently learning everything what I can get my hands on to be 💪 developer.
+- 🧐 I’m currently learning everything what I can get my hands on to be 💪 developer.
 - 📫 How to reach me: galexing@gmail.com
+
 <!--
 **IamGalexing/IamGalexing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
