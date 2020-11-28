@@ -1,7 +1,12 @@
 ### Hi there, I`m Oleksandr 👋
 
 - 🧐 I’m currently learning everything what I can get my hands on to be 💪 developer.
-- 📫 How to reach me: [galexing@gmail.com](galexing@gmail.com)
+- 📫 How to reach me:
+              ```
+              - [LinkedIn](www.linkedin.com/in/o-gneushev)
+              - [Telegram](https://t.me/Galexing)
+              - [galexing@gmail.com](galexing@gmail.com)
+              ```
 - ⚡ Fun fact: I love to code and music 🎸🎺🎹
 
 ### My current stack and tools:
