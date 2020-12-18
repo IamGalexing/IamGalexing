@@ -20,7 +20,7 @@
 
 <img align="left" alt="MongoDB" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png" />
 
-<img align="left" alt="GitHub" width="32px" src="https://icon-library.net//images/git-hub-icon/git-hub-icon-15.jpg" />
+<img align="left" alt="GitHub" width="32px" src="https://i.ibb.co/whV786C/git-hub-icon-15.png" />
 
 <!--
 **IamGalexing/IamGalexing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
