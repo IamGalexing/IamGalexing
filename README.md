@@ -1,14 +1,16 @@
 ### Hi there, I`m Oleksandr 👋
 
 - 🧐 I’m currently learning everything what I can get my hands on to be 💪 developer.
-- 📫 How to reach me:
-     - [Telegram](https://t.me/Galexing)
+- :mailbox_with_mail: How to reach me:
+     - [Telegram: @galexing](https://t.me/Galexing)
      - [galexing@gmail.com](galexing@gmail.com)
-- ⚡ Fun fact: I love to code and music 🎸🎺🎹
+- :mag: Fun fact: I love to code, football, travel and music 🎸🎺🎹
 
 ### My current stack and tools:
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="React" width="32px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/8575147831553750379-512.png" />
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -17,8 +19,6 @@
 <img align="left" alt="Git" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" />
 
 <img align="left" alt="Node.js" width="32px" src="https://icon-library.net//images/node-js-icon/node-js-icon-6.jpg" />
-
-<img align="left" alt="MongoDB" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png" />
 
 <img align="left" alt="GitHub" width="32px" src="https://i.ibb.co/whV786C/git-hub-icon-15.png" />
 
