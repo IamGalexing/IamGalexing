@@ -6,7 +6,7 @@
      - [galexing@gmail.com](galexing@gmail.com)
 - :mag: Fun fact: I love to code, football, travel and music 🎸🎺🎹
 
-<img title="CodeWars" align="" alt="CodeWars" src="https://www.codewars.com/users/IamGalexing/badges/small" />
+&nbsp;&nbsp;&nbsp;<img title="CodeWars" style="margin-left: 50px;" alt="CodeWars" src="https://www.codewars.com/users/IamGalexing/badges/small" />
 
 ### My current stack and tools:
 
