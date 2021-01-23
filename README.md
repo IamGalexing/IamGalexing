@@ -6,15 +6,17 @@
      - [galexing@gmail.com](galexing@gmail.com)
 - :mag: Fun fact: I love to code, football, travel and music 🎸🎺🎹
 
+<img title="CodeWars" align="left" style="margin-left: 50px;" alt="CodeWars" src="https://www.codewars.com/users/IamGalexing/badges/small" />
+
 ### My current stack and tools:
 
 <img title="JavaScript" align="left" alt="JavaScript" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/javascript.png" />
 
 <img title="React" align="left" alt="React" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/react.png" />
 
-<img title="HTML5" align="left" alt="HTML5" width="28px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/html.png" />
+<img title="HTML5" align="left" alt="HTML5" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/html-5.png" />
 
-<img title="CSS3" align="left" alt="CSS3" width="35px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/css.png" />
+<img title="CSS3" align="left" alt="CSS3" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/css-3.png" />
 
 <img title="SASS" align="left" alt="SASS" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/sass.png" />
 
