@@ -1,6 +1,6 @@
 ### Hi there, I`m Oleksandr 👋
 
-- 🧐 I’m currently learning everything what I can get my hands on to be 💪 developer.
+- 🧐 I’m currently learning everything what I can hands on to be 💪 developer.
 - :mailbox_with_mail: How to reach me:
      - [Telegram: @galexing](https://t.me/Galexing)
      - [galexing@gmail.com](galexing@gmail.com)
