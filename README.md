@@ -14,9 +14,9 @@
 
 <img title="React" align="left" alt="React" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/react.png" />
 
-<img title="HTML5" align="left" alt="HTML5" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/html-5.png" />
+<img title="HTML5" align="left" alt="HTML5" width="30px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/html-5.png" />
 
-<img title="CSS3" align="left" alt="CSS3" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/css-3.png" />
+<img title="CSS3" align="left" alt="CSS3" width="30px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/css-3.png" />
 
 <img title="SASS" align="left" alt="SASS" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/sass.png" />
 
