@@ -10,7 +10,7 @@
 
 <img title="JavaScript" align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img title="React" align="left" alt="React" width="32px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/8575147831553750379-512.png" />
+<img title="React" align="left" alt="React" width="42px" src="https://github.com/IamGalexing/IamGalexing/blob/master/react-logo.png" />
 
 <img title="HTML5" align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
