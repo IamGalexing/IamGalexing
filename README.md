@@ -9,7 +9,7 @@
    [![Email Badge](https://img.shields.io/badge/-galexing@gmail.com-rgb(48,49,51)?&logo=gmail&labelColor=limegreen&style=flat-square&logoColor=white)](mailto:galexing@gmail.com)
     
  
-#### :mag: Fun facts about me: I love to code, travel, football, and music 🎸🎺🎹
+#### :mag: Fun facts about me: I love to code 👩‍💻  travel ✈🚢  football ⚽  and music 🎸🎺🎹
 
 <img align="right" alt="GitHub"  style="margin=0; padding=0" width="100px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/img-do.jpg" />   
 
