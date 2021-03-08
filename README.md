@@ -1,3 +1,5 @@
+<img align="center" alt="Welcome image" width="100%" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/backg.png" />
+
 ### Hi there, I`m Oleksandr 👋
 
 #### 🧐 I’m currently learning everything what I can hands on to be 💪 developer.
@@ -9,7 +11,7 @@
  
 #### :mag: Fun facts about me: I love to code, travel, football, and music 🎸🎺🎹
 
-<img align="right" alt="GitHub"  style="margin='0'; padding='0'" width="100px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/img-do.jpg" />   
+<img align="right" alt="GitHub"  style="margin=0; padding=0" width="100px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/img-do.jpg" />   
 
 &nbsp;&nbsp;&nbsp;<img title="CodeWars" style="margin-left: 50px;" alt="CodeWars" src="https://www.codewars.com/users/IamGalexing/badges/small" />
 
