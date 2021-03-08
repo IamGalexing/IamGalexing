@@ -2,9 +2,9 @@
 
 #### 🧐 I’m currently learning everything what I can hands on to be 💪 developer.
 #### :mailbox_with_mail: My contacts:
-   [![Telegram channel Badge](https://img.shields.io/badge/-Telegram-blue?&logo=telegram&labelColor=limegreen&style=flat&logoColor=white)](https://t.me/Galexing)
-   [![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=linkedin&labelColor=limegreen&style=flat&logoColor=white)](https://www.linkedin.com/in/o-gneushev)
-   [![Email Badge](https://img.shields.io/badge/-galexing@gmail.com-blue?&logo=gmail&labelColor=limegreen&style=flat&logoColor=white)](mailto:galexing@gmail.com)
+   [![Telegram channel Badge](https://img.shields.io/badge/-Telegram-rgb(0,136,204)?&logo=telegram&labelColor=limegreen&style=flat&logoColor=white)](https://t.me/Galexing)
+   [![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-rgb(14,118,168)?&logo=linkedin&labelColor=limegreen&style=flat&logoColor=white)](https://www.linkedin.com/in/o-gneushev)
+   [![Email Badge](https://img.shields.io/badge/-galexing@gmail.com-lightskyblue?&logo=gmail&labelColor=limegreen&style=flat&logoColor=white)](mailto:galexing@gmail.com)
     
 #### :mag: Fun facts about me: I love to code, travel, football, and music 🎸🎺🎹
 
