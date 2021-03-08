@@ -32,7 +32,7 @@
 
 <img title="GitHub" align="left" alt="GitHub" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/github.png" />
 
-
+<img title="Webpack" align="left" alt="webpack" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/webpack.png" />
 
 <!--
 **IamGalexing/IamGalexing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
