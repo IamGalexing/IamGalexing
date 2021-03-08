@@ -2,8 +2,10 @@
 
 - 🧐 I’m currently learning everything what I can hands on to be 💪 developer.
 - :mailbox_with_mail: How to reach me:
-     - [Telegram: @galexing](https://t.me/Galexing)
-     - [galexing@gmail.com](mailto:galexing@gmail.com)
+   [![Telegram channel Badge](https://img.shields.io/badge/-telegram-blue?&logo=telegram&labelColor=limegreen&style=for-the-badge&logoColor=white)](https://t.me/Galexing)
+   [![LinkedIn badge](https://img.shields.io/badge/-linkedin-blue?&logo=linkedin&labelColor=limegreen&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/o-gneushev)
+   [![Email Badge](https://img.shields.io/badge/-galexing@gmail.com-blue?&logo=gmail&labelColor=limegreen&style=for-the-badge&logoColor=white)](mailto:galexing@gmail.com)
+    
 - :mag: Fun fact: I love to code, football, travel and music 🎸🎺🎹
 
 &nbsp;&nbsp;&nbsp;<img title="CodeWars" style="margin-left: 50px;" alt="CodeWars" src="https://www.codewars.com/users/IamGalexing/badges/small" />
@@ -28,6 +30,9 @@
 
 <!--
 **IamGalexing/IamGalexing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+    - [Telegram: @galexing](https://t.me/Galexing)
+     - [galexing@gmail.com](mailto:galexing@gmail.com)
 
 Here are some ideas to get you started:
 
