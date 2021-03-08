@@ -6,9 +6,13 @@
    [![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-rgb(14,118,168)?&logo=linkedin&labelColor=limegreen&style=flat-square&logoColor=white)](https://www.linkedin.com/in/o-gneushev)&nbsp;
    [![Email Badge](https://img.shields.io/badge/-galexing@gmail.com-rgb(48,49,51)?&logo=gmail&labelColor=limegreen&style=flat-square&logoColor=white)](mailto:galexing@gmail.com)
     
+ 
 #### :mag: Fun facts about me: I love to code, travel, football, and music 🎸🎺🎹
 
+<img align="right" alt="GitHub"  style="margin='0'; padding='0'" width="100px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/img-do.jpg" />   
+
 &nbsp;&nbsp;&nbsp;<img title="CodeWars" style="margin-left: 50px;" alt="CodeWars" src="https://www.codewars.com/users/IamGalexing/badges/small" />
+
 
 #### My current stack and tools:
 
@@ -27,6 +31,8 @@
 <img title="Git" align="left" alt="Git" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/git.png" />
 
 <img title="GitHub" align="left" alt="GitHub" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/github.png" />
+
+
 
 <!--
 **IamGalexing/IamGalexing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
