@@ -1,16 +1,16 @@
 ### Hi there, I`m Oleksandr 👋
 
-- 🧐 I’m currently learning everything what I can hands on to be 💪 developer.
-- :mailbox_with_mail: How to reach me:
-   [![Telegram channel Badge](https://img.shields.io/badge/-telegram-blue?&logo=telegram&labelColor=limegreen&style=for-the-badge&logoColor=white)](https://t.me/Galexing)
-   [![LinkedIn badge](https://img.shields.io/badge/-linkedin-blue?&logo=linkedin&labelColor=limegreen&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/o-gneushev)
-   [![Email Badge](https://img.shields.io/badge/-galexing@gmail.com-blue?&logo=gmail&labelColor=limegreen&style=for-the-badge&logoColor=white)](mailto:galexing@gmail.com)
+#### 🧐 I’m currently learning everything what I can hands on to be 💪 developer.
+##### :mailbox_with_mail: My contacts:
+   [![Telegram channel Badge](https://img.shields.io/badge/-Telegram-blue?&logo=telegram&labelColor=limegreen&style=flat&logoColor=white)](https://t.me/Galexing)
+   [![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=linkedin&labelColor=limegreen&style=flat&logoColor=white)](https://www.linkedin.com/in/o-gneushev)
+   [![Email Badge](https://img.shields.io/badge/-galexing@gmail.com-blue?&logo=gmail&labelColor=limegreen&style=flat&logoColor=white)](mailto:galexing@gmail.com)
     
-- :mag: Fun fact: I love to code, football, travel and music 🎸🎺🎹
+#### :mag: Fun facts about me: I love to code, travel, football, and music 🎸🎺🎹
 
 &nbsp;&nbsp;&nbsp;<img title="CodeWars" style="margin-left: 50px;" alt="CodeWars" src="https://www.codewars.com/users/IamGalexing/badges/small" />
 
-### My current stack and tools:
+#### My current stack and tools:
 
 <img title="JavaScript" align="left" alt="JavaScript" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/javascript.png" />
 
