@@ -3,7 +3,7 @@
 - 🧐 I’m currently learning everything what I can hands on to be 💪 developer.
 - :mailbox_with_mail: How to reach me:
      - [Telegram: @galexing](https://t.me/Galexing)
-     - [galexing@gmail.com](galexing@gmail.com)
+     - [galexing@gmail.com](mailto:galexing@gmail.com)
 - :mag: Fun fact: I love to code, football, travel and music 🎸🎺🎹
 
 &nbsp;&nbsp;&nbsp;<img title="CodeWars" style="margin-left: 50px;" alt="CodeWars" src="https://www.codewars.com/users/IamGalexing/badges/small" />
