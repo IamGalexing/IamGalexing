@@ -1,4 +1,4 @@
-<img align="center" alt="Welcome image" width="100%" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/backg-2.2.gif" />
+<img align="center" alt="Welcome image" width="100%" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/backg-2-3.gif" />
 
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> I’m currently learning everything what I can hands on to be a strong developer.</h4>
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1614880788/17077/mailbox.gif?1614880788" width="42"/> Contact me: </h4>
