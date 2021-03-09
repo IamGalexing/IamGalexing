@@ -1,4 +1,4 @@
-<img align="center" alt="Welcome image" width="100%" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/backg.png" />
+<img align="center" alt="Welcome image" width="100%" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/backg-2.gif" />
 
 #### 🧐 I’m currently learning everything what I can hands on to be 💪 developer.
 #### :mailbox_with_mail: My contacts:
