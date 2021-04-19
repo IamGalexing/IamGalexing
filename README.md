@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;<img title="CodeWars" style="margin-left: 50px;" alt="CodeWars" src="https://www.codewars.com/users/IamGalexing/badges/small" />
 
 
-<h4> <img src="https://emojis.slackmojis.com/emojis/images/1466717443/563/ninja.gif?1466717443" width="32"/>&nbsp; My current stack and tools: </h4>
+<h4> <img src="https://emojis.slackmojis.com/emojis/images/1466717443/563/ninja.gif?1466717443" width="32"/>&nbsp; My stack and tools: </h4>
 
 <img title="JavaScript" align="left" alt="JavaScript" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/javascript.png" />
 
@@ -29,11 +29,15 @@
 
 <img title="Node.js" align="left" alt="Node.js" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/nodejs.png" />
 
+<img title="Webpack" align="left" alt="webpack" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/webpack.png" />
+
 <img title="Git" align="left" alt="Git" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/git.png" />
 
 <img title="GitHub" align="left" alt="GitHub" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/github.png" />
 
-<img title="Webpack" align="left" alt="webpack" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/webpack.png" />
+<img title="GitLab" align="left" alt="GitLab" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/gitlab.png" />
+
+<img title="NPM" align="left" alt="NPM" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/npm.png" />
 
 <img title="VS-code" align="left" alt="VS code" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/vscode.png" />
 
