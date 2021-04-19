@@ -29,6 +29,7 @@
 
 <img title="Node.js" align="left" alt="Node.js" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/nodejs.png" />
 
+<div>
 <img title="Webpack" align="left" alt="webpack" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/webpack.png" />
 
 <img title="Git" align="left" alt="Git" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/git.png" />
@@ -40,7 +41,7 @@
 <img title="NPM" align="left" alt="NPM" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/npm1.png" />
 
 <img title="VS-code" align="left" alt="VS code" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/vscode.png" />
-
+</div>
 <!--
 **IamGalexing/IamGalexing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
