@@ -43,7 +43,7 @@
 
 <br/>
 
-<img align="left" alt="poster" style="margin=0; padding=0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamGalexing&layout=compact&langs_count=6&hide_border&=truehide_title=true&bg_color=222222&text_color=F8F8F8" />
+<img align="left" alt="poster" style="margin=0; padding=0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamGalexing&layout=compact&langs_count=6&hide_border=true&hide_title=true&bg_color=222222&text_color=F8F8F8" />
 <img align="right" alt="poster" style="margin=0; padding=0" width="100" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/img-do.jpg" />
 <!--
 **IamGalexing/IamGalexing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
