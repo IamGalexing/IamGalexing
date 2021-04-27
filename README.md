@@ -10,7 +10,7 @@
  
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1614994374/17984/monocle.gif?1614994374" width="24"/>&nbsp; Fun facts about me: I love to code <img src="https://emojis.slackmojis.com/emojis/images/1492722350/2069/excited.gif?1492722350" width="26"/>, travel <img src="https://emojis.slackmojis.com/emojis/images/1614903508/17493/airplane.gif?1614903508" width="26"/>, football <img src="https://emojis.slackmojis.com/emojis/images/1614377797/15291/soccer.gif?1614377797" width="26"/>, and music <img src="https://emojis.slackmojis.com/emojis/images/1526710269/3951/rock_chick.gif?1526710269" width="26"/>.</h4>
 
-<img align="right" alt="poster" style="margin=0; padding=0" width="100" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/img-do.jpg" />
+<!--  <img align="right" alt="poster" style="margin=0; padding=0" width="100" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/img-do.jpg" />  -->
 
 &nbsp;&nbsp;&nbsp;<img title="CodeWars" style="margin-left: 50px;" alt="CodeWars" src="https://www.codewars.com/users/IamGalexing/badges/small" />
 
@@ -29,7 +29,6 @@
 
 <img title="Node.js" align="left" alt="Node.js" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/nodejs.png" />
 
-<div>
 <img title="Webpack" align="left" alt="webpack" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/webpack.png" />
 
 <img title="Git" align="left" alt="Git" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/git.png" />
@@ -41,7 +40,11 @@
 <img title="NPM" align="left" alt="NPM" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/npm1.png" />
 
 <img title="VS-code" align="left" alt="VS code" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/vscode.png" />
-</div>
+
+<br />
+
+<img align="left" alt="poster" style="margin=0; padding=0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamGalexing&layout=compact&langs_count=6&hide_border&=truehide_title=true&bg_color=222222&text_color=F8F8F8" />
+<img align="right" alt="poster" style="margin=0; padding=0" width="100" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/img-do.jpg" />
 <!--
 **IamGalexing/IamGalexing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
