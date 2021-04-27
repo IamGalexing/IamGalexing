@@ -41,8 +41,6 @@
 
 <img title="VS-code" align="left" alt="VS code" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/vscode.png" />&nbsp;
 
-<br/>
-<br/>
 <img align="left" alt="poster" style="margin=0; padding=0" src="https&#58;//github-readme-stats.vercel.app/api/top-langs/?username=IamGalexing&layout=compact&langs_count=6&hide_border=true&hide_title=true&bg_color=222222&text_color=F8F8F8" />
 <img align="right" alt="poster" style="margin-bottom=40px; padding=0" width="100" src="https&#58;//github.com/IamGalexing/IamGalexing/blob/master/img/img-do.jpg" />
 <!--
