@@ -16,7 +16,7 @@
 
 
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1466717443/563/ninja.gif?1466717443" width="32"/>&nbsp; My stack and tools: </h4>
-
+<div>
 <img title="JavaScript" align="left" alt="JavaScript" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/javascript.png" />
 
 <img title="React" align="left" alt="React" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/react.png" />
@@ -40,7 +40,7 @@
 <img title="NPM" align="left" alt="NPM" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/npm1.png" />
 
 <img title="VS-code" align="left" alt="VS code" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/vscode.png" />
-
+</div>
 <br />
 
 <img align="left" alt="poster" style="margin=0; padding=0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamGalexing&layout=compact&langs_count=6&hide_border&=truehide_title=true&bg_color=222222&text_color=F8F8F8" />
