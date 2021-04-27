@@ -39,7 +39,7 @@
 
 <img title="NPM" align="left" alt="NPM" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/npm1.png" />
 
-<img title="VS-code" align="left" alt="VS code" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/vscode.png" />
+<img title="VS-code" align="left" alt="VS code" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/vscode.png" />&nbsp;
 
 <br/>
 
