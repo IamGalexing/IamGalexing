@@ -39,7 +39,7 @@
 
 <img title="GitHub" align="left" alt="GitHub" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/github.png" />
 
-<!-- <img title="GitLab" align="left" alt="GitLab" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/gitlab.png" /> -->
+<img title="GitLab" align="left" alt="GitLab" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/gitlab.png" />
 
 <img title="NPM" align="left" alt="NPM" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/npm1.png" />
 
