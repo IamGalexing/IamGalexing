@@ -21,6 +21,8 @@
 
 <img title="React" align="left" alt="React" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/react.png" />
 
+<img title="Redux" align="left" alt="Redux" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/solidity.png" />
+
 <img title="Redux" align="left" alt="Redux" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/redux.png" />
 
 <img title="TypeScript" align="left" alt="TypeScript" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/typescript.png" />
