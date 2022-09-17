@@ -31,11 +31,11 @@
 
 <img title="CSS3" align="left" alt="CSS3" width="30px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/css-3.png" />
 
+<img title="Node.js" align="left" alt="Node.js" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/nodejs.png" />
+
 <img title="TailwindCSS" align="left" alt="Tailwind" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/tailwind.png" />
 
 <img title="SASS" align="left" alt="SASS" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/sass.png" />
-
-<img title="Node.js" align="left" alt="Node.js" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/nodejs.png" />
 
 <!-- <img title="Webpack" align="left" alt="webpack" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/webpack.png" /> -->
 
