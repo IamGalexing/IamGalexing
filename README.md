@@ -21,29 +21,31 @@
 
 <img title="React" align="left" alt="React" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/react.png" />
 
-<img title="Redux" align="left" alt="Redux" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/Solidity_logo.svg.png" />
-
-<img title="Redux" align="left" alt="Redux" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/redux.png" />
+<img title="Solidity" align="left" alt="Solidity" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/solidity2.png" />
 
 <img title="TypeScript" align="left" alt="TypeScript" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/typescript.png" />
+
+<img title="Git" align="left" alt="Git" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/git.png" />
 
 <img title="HTML5" align="left" alt="HTML5" width="30px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/html-5.png" />
 
 <img title="CSS3" align="left" alt="CSS3" width="30px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/css-3.png" />
 
+<img title="TailwindCSS" align="left" alt="Tailwind" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/tailwind.png" />
+
 <img title="SASS" align="left" alt="SASS" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/sass.png" />
 
 <img title="Node.js" align="left" alt="Node.js" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/nodejs.png" />
 
-<img title="Webpack" align="left" alt="webpack" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/webpack.png" />
+<!-- <img title="Webpack" align="left" alt="webpack" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/webpack.png" /> -->
 
-<img title="Git" align="left" alt="Git" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/git.png" />
+<img title="Redux" align="left" alt="Redux" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/redux.png" />
+
+<!-- <img title="GitLab" align="left" alt="GitLab" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/gitlab.png" /> -->
+
+<!-- <img title="NPM" align="left" alt="NPM" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/npm1.png" /> -->
 
 <img title="GitHub" align="left" alt="GitHub" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/github.png" />
-
-<img title="GitLab" align="left" alt="GitLab" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/gitlab.png" />
-
-<img title="NPM" align="left" alt="NPM" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/npm1.png" />
 
 <img title="VS-code" align="left" alt="VS code" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/vscode.png" />
 <!-- <br/>
