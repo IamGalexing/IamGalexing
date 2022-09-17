@@ -21,7 +21,7 @@
 
 <img title="React" align="left" alt="React" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/react.png" />
 
-<img title="Redux" align="left" alt="Redux" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/solidity.png" />
+<img title="Redux" align="left" alt="Redux" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/Solidity_logo.svg.png" />
 
 <img title="Redux" align="left" alt="Redux" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/redux.png" />
 
