@@ -19,9 +19,11 @@
 
 <img title="JavaScript" align="left" alt="JavaScript" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/javascript.png" />
 
+<img title="Solidity" align="left" alt="Solidity" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/solidity2.png" />
+
 <img title="React" align="left" alt="React" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/react.png" />
 
-<img title="Solidity" align="left" alt="Solidity" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/solidity2.png" />
+<img title="Next.js" align="left" alt="Next" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/nextjs.png" />
 
 <img title="TypeScript" align="left" alt="TypeScript" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/typescript.png" />
 
@@ -39,7 +41,7 @@
 
 <!-- <img title="Webpack" align="left" alt="webpack" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/webpack.png" /> -->
 
-<img title="Redux" align="left" alt="Redux" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/redux.png" />
+<!-- <img title="Redux" align="left" alt="Redux" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/redux.png" /> -->
 
 <!-- <img title="GitLab" align="left" alt="GitLab" width="32px" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/gitlab.png" /> -->
 
