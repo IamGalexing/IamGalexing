@@ -8,7 +8,7 @@
    [![Email Badge](https://img.shields.io/badge/-galexing@gmail.com-rgb(48,49,51)?&logo=gmail&labelColor=limegreen&style=flat-square&logoColor=white)](mailto:galexing@gmail.com)
     
  
-<h4> <img src="https://emojis.slackmojis.com/emojis/images/1614994374/17984/monocle.gif?1614994374" width="24"/>&nbsp; Fun facts about me: I love to code <img src="https://emojis.slackmojis.com/emojis/images/1492722350/2069/excited.gif?1492722350" width="26"/>, travel <img src="https://emojis.slackmojis.com/emojis/images/1614903508/17493/airplane.gif?1614903508" width="26"/>, football <img src="https://emojis.slackmojis.com/emojis/images/1614377797/15291/soccer.gif?1614377797" width="26"/>, and music <img src="https://emojis.slackmojis.com/emojis/images/1526710269/3951/rock_chick.gif?1526710269" width="26"/>.</h4>
+<h4> <img src="https://emojis.slackmojis.com/emojis/images/1614994374/17984/monocle.gif?1614994374" width="24"/>&nbsp; Fun facts about me: I love to code <img src="https://emojis.slackmojis.com/emojis/images/1492722350/2069/excited.gif?1492722350" width="26"/>, travel <img src="https://emojis.slackmojis.com/emojis/images/1614903508/17493/airplane.gif?1614903508" width="26"/>, football <img src="https://emojis.slackmojis.com/emojis/images/1614377797/15291/soccer.gif?1614377797" width="26"/>, and music events <img src="https://emojis.slackmojis.com/emojis/images/1526710269/3951/rock_chick.gif?1526710269" width="26"/>.</h4>
 
 <img align="right" alt="poster" style="margin=0; padding=0" width="100" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/img-do.jpg" />
 
