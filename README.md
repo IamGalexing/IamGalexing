@@ -1,18 +1,18 @@
 <img align="center" alt="Welcome image" width="100%" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/backg-2-3.gif" />
 
 <h4 style="line-height="10""> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>&nbsp; I am a highly motivated, responsible person who is a fast learner and is attentive to details. I am always looking for improving my coding skills and am open to new challenges.</h4>
+<img title="CodeWars" style="margin-left: 50px;" alt="CodeWars" src="https://www.codewars.com/users/IamGalexing/badges/small" />
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1614880788/17077/mailbox.gif?1614880788" width="42"/>&nbsp; Contact me: </h4>
 
-   [![Telegram channel Badge](https://img.shields.io/badge/-Telegram-rgb(0,136,204)?&logo=telegram&labelColor=limegreen&style=flat-square&logoColor=white)](https://t.me/Galexing)&nbsp;
    [![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-rgb(14,118,168)?&logo=linkedin&labelColor=limegreen&style=flat-square&logoColor=white)](https://www.linkedin.com/in/o-gneushev)&nbsp;
    [![Email Badge](https://img.shields.io/badge/-galexing@gmail.com-rgb(48,49,51)?&logo=gmail&labelColor=limegreen&style=flat-square&logoColor=white)](mailto:galexing@gmail.com)
-    
+<!--   [![Telegram channel Badge](https://img.shields.io/badge/-Telegram-rgb(0,136,204)?&logo=telegram&labelColor=limegreen&style=flat-square&logoColor=white)](https://t.me/Galexing)&nbsp; --> 
  
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1614994374/17984/monocle.gif?1614994374" width="24"/>&nbsp; Fun facts about me: I love to code <img src="https://emojis.slackmojis.com/emojis/images/1492722350/2069/excited.gif?1492722350" width="26"/>, travel <img src="https://emojis.slackmojis.com/emojis/images/1614903508/17493/airplane.gif?1614903508" width="26"/>, football <img src="https://emojis.slackmojis.com/emojis/images/1614377797/15291/soccer.gif?1614377797" width="26"/>, and music events <img src="https://emojis.slackmojis.com/emojis/images/1526710269/3951/rock_chick.gif?1526710269" width="26"/>.</h4>
 
 <img align="right" alt="poster" style="margin=0; padding=0" width="100" src="https://github.com/IamGalexing/IamGalexing/blob/master/img/img-do.jpg" />
 
-&nbsp;&nbsp;&nbsp;<img title="CodeWars" style="margin-left: 50px;" alt="CodeWars" src="https://www.codewars.com/users/IamGalexing/badges/small" />
+
 
 
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1466717443/563/ninja.gif?1466717443" width="32"/>&nbsp; My stack and tools: </h4>
