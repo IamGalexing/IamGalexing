@@ -2,7 +2,7 @@
 
 <h4 style="line-height="10""> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>&nbsp; I am a highly motivated, responsible person who is a fast learner and is attentive to details. I am always looking for improving my coding skills and am open to new challenges.</h4>
    
-   [<img title="CodeWars" style="margin-left: 50px;" alt="CodeWars" src="https://www.codewars.com/users/IamGalexing/badges/small" />](https://www.codewars.com/users/IamGalexing)&nbsp;
+   [<img title="CodeWars" target="_blank" style="margin-left: 50px;" alt="CodeWars" src="https://www.codewars.com/users/IamGalexing/badges/small" />](https://www.codewars.com/users/IamGalexing)&nbsp;
    [![Opensea Badge](https://img.shields.io/badge/-%20%20%20Web3%20proof%20of%20knowledge%20NFTs%20-rgb(48,49,51)?labelColor=3C7EBB&style=flat-square&logo=opensea&logoColor=black)](https://opensea.io/galexing)
 
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1614880788/17077/mailbox.gif?1614880788" width="42"/>&nbsp; Contact me: </h4>
